@@ -16,7 +16,6 @@ The packages I used:
 * folium
 * seaborn
 * sklearn
-
 	
 ## File Descriptions
 
