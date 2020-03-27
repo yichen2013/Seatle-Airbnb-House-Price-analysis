@@ -1,4 +1,4 @@
-# Seatle-Airbnb-House-Price-analysis
+# Seattle-Airbnb-House-Price-analysis
 
 ## Table of contents
 * [Introduction](#Introduction)
