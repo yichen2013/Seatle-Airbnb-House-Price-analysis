@@ -23,4 +23,4 @@ This projects includes three files: one Jupyter notebook, one data file, one rea
  
 ## Results
  
-The most important features that affected the listing price are the size of the house(accommodates), the review scores, room type, house location. 
+The most important features that affected the listing price are the size of the house(accommodates), the review scores, room type, house location. The results also post [here](https://medium.com/@sishuiweilanmei/seatle-airbnb-house-price-analysis-a06e9f688006)
