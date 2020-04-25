@@ -3,7 +3,7 @@
 ## Table of contents
 * [Introduction](#Introduction)
 * [Technologies](#Technologies)
-* [File Descriptions](#File Descriptions)
+* [FileDescriptions](#FileDescriptions)
 * [Results](#Results)
 
 ## Introduction
